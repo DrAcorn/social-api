@@ -1,0 +1,843 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background"
+			],
+			[
+				"user",
+				"UserGuard\talias"
+			],
+			[
+				"c",
+				"constructor\tkeyword"
+			],
+			[
+				"s",
+				"subscribe\tmethod"
+			],
+			[
+				"_",
+				"_publicationService\tproperty"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"publi",
+				"publication"
+			],
+			[
+				"u",
+				"_uploadService\tproperty"
+			],
+			[
+				"A",
+				"Array\tconst"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"get",
+				"getPublicationsUser"
+			],
+			[
+				"In",
+				"Input\talias"
+			],
+			[
+				"pag",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fo",
+				"followUserOVer\tproperty"
+			],
+			[
+				"f",
+				"followUserOVer\tproperty"
+			],
+			[
+				"follo",
+				"follow\tlocal var"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"_ro",
+				"_router\tproperty"
+			],
+			[
+				"Fo",
+				"FollowService\talias"
+			],
+			[
+				"pro",
+				"providers\tproperty"
+			],
+			[
+				"te",
+				"templateUrl\tproperty"
+			],
+			[
+				"Eve",
+				"EventEmitter\talias"
+			],
+			[
+				"im",
+				"import\timports a module …"
+			],
+			[
+				"pub",
+				"PublicationsComponent\talias"
+			],
+			[
+				"p",
+				"publications\tproperty"
+			],
+			[
+				"i",
+				"itemsPerPage\tproperty"
+			],
+			[
+				"it",
+				"itemsPerPage"
+			],
+			[
+				"na",
+				"navigate\tmethod"
+			],
+			[
+				"rout",
+				"_router\tproperty"
+			],
+			[
+				"Pu",
+				"PublicationService\talias"
+			],
+			[
+				"ob",
+				"Observable\talias"
+			],
+			[
+				"to",
+				"token\tparameter"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"Time",
+				"TimelineComponent\talias"
+			],
+			[
+				"t",
+				"timeline.component\tscript"
+			],
+			[
+				"ge",
+				"getIdentity\tmethod"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pu",
+				"pull-left"
+			],
+			[
+				"glo",
+				"GLOBAL\talias"
+			],
+			[
+				"Com",
+				"Component\talias"
+			],
+			[
+				"htt",
+				"HttpHeaders\talias"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"error",
+				"errorMessage\tlocal var"
+			],
+			[
+				"g",
+				"getUsers\tmethod"
+			],
+			[
+				"o",
+				"Observable\talias"
+			],
+			[
+				"res",
+				"result\tparameter"
+			],
+			[
+				"fil",
+				"filesToUpload\tproperty"
+			],
+			[
+				"set",
+				"setRequestHeader\tmethod"
+			],
+			[
+				"x",
+				"xhr\tlocal var"
+			],
+			[
+				"re",
+				"readyState\tproperty"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"upd",
+				"update"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"se",
+				"selector\tproperty"
+			],
+			[
+				"ac",
+				"ActivatedRoute\talias"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"Do",
+				"DoCheck\talias"
+			],
+			[
+				"On",
+				"OnInit\talias"
+			],
+			[
+				"loca",
+				"localStorage\tvar"
+			],
+			[
+				"er",
+				"errorMessage\tlocal var"
+			],
+			[
+				"Ob",
+				"Observable\talias"
+			],
+			[
+				"Ac",
+				"ActivatedRoute\talias"
+			],
+			[
+				"User",
+				"UserService\talias"
+			],
+			[
+				"Gl",
+				"GLOBAL\talias"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"For",
+				"FormsModule\talias"
+			],
+			[
+				"app",
+				"appRoutingProviders\talias"
+			],
+			[
+				"Lo",
+				"LoginComponent\talias"
+			],
+			[
+				"Reg",
+				"RegisterComponent\talias"
+			],
+			[
+				"lo",
+				"LoginComponent\talias"
+			],
+			[
+				"n",
+				"ngOnInit\tmethod"
+			],
+			[
+				"Co",
+				"Component\talias"
+			],
+			[
+				"nab",
+				"navbar"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"mes",
+				"messagesUpdated"
+			],
+			[
+				"me",
+				"messages"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"sa",
+				"saveMessage"
+			],
+			[
+				"messa",
+				"message_routes"
+			],
+			[
+				"md",
+				"md_upload"
+			],
+			[
+				"upload",
+				"uploadImage"
+			],
+			[
+				"publica",
+				"publicationId"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"publ",
+				"publication"
+			],
+			[
+				"pi",
+				"publication"
+			],
+			[
+				"fol",
+				"follows_clean"
+			],
+			[
+				"foll",
+				"followed"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"han",
+				"handleError"
+			],
+			[
+				"fl",
+				"followed"
+			],
+			[
+				"follow",
+				"followUserIds"
+			],
+			[
+				"follows",
+				"follows_clean"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"flo",
+				"following"
+			],
+			[
+				"iden",
+				"identity_user_id"
+			],
+			[
+				"save",
+				"saveFollow"
+			],
+			[
+				"e",
+				"ensureAuth"
+			],
+			[
+				"file_",
+				"file_path"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"ex",
+				"ext_split"
+			],
+			[
+				"fi",
+				"file_path"
+			],
+			[
+				"us",
+				"UserController"
+			],
+			[
+				"log",
+				"loginUser"
+			],
+			[
+				"use",
+				"UserController"
+			],
+			[
+				"Message",
+				"MessageSchema"
+			],
+			[
+				"F",
+				"FollowSchema"
+			],
+			[
+				"Publ",
+				"PublicationSchema"
+			],
+			[
+				"node",
+				"nodemon"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"src",
+				"source\tTag"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/timeline/timeline.component.html",
+			"settings":
+			{
+				"buffer_size": 2988,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 664,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "install ",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 609.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social"
+	],
+	"file_history":
+	[
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/timeline/timeline.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/assets/styles.css",
+		"/C/Users/elect/Downloads/codisocm-anl782/client/src/app/components/timeline/timeline.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/index.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/publications/publications.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/publications/publications.component.html",
+		"/C/Users/elect/Downloads/codisocm-anl782/client/src/app/components/timeline/timeline.component.ts",
+		"/C/Users/elect/Downloads/codisocm-anl782/client/src/app/components/publications/publications.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/timeline/timeline.component.html",
+		"/C/Users/elect/Downloads/codisocm-anl782/client/src/app/components/publications/publications.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/package.json",
+		"/C/app/elect/product/11.2.0/dbhome_1/sqldeveloper/sqldeveloper/bin/sqldeveloper.conf",
+		"/C/app/elect/product/11.2.0/dbhome_1/sqldeveloper/sqldeveloper/bin/sqldeveloper.exe",
+		"/C/app/elect/virtual/product/12.2.0/dbhome_1/network/admin/sqlnet.ora",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/home/home.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/home/home.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/services/user.guard.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/app.routing.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/app.module.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/controllers/publication.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/sidebar/sidebar.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/sidebar/sidebar.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/app.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/profile/profile.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/services/publication.service.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/profile/profile.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/routes/publication.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/users/users.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/services/follow.service.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/users/users.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/services/user.service.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/app.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/routes/user.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/services/upload.service.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/user-edit/user-edit.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/user-edit/user-edit.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/controllers/user.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/login/login.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/register/register.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/login/login.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/models/user.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/register/register.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/services/global.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/index.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/models/message.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/models/publication.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/models/follow.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/login/login.components.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/login/login.components.ts",
+		"/C/Users/elect/Documents/ProyectosAngular/instalacion-angular5/src/app/app.component.html",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/typings.d.ts",
+		"/C/Users/elect/Documents/ProyectosAngular/instalacion-angular5/src/app/app.component.ts",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/package.json",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/.angular-cli.json",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/app.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/routes/message.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/controllers/message.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/models/message.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/controllers/follow.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/models/user.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/routes/follow.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/models/follow.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/services/jwt.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/middlewares/authenticated.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/models/publication.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/node_modules/app.js",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/curso-mean-social.sublime-project",
+		"/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/api/package-lock.json",
+		"/C/Users/elect/OneDrive/Html5 y css3/propiedadesdecolores.html",
+		"/C/Users/elect/OneDrive/Html5 y css3/propiedadesformas.html",
+		"/C/Users/elect/OneDrive/Html5 y css3/sintaxis.html",
+		"/C/Users/elect/OneDrive/Html5 y css3/4_formularios.html",
+		"/C/Users/elect/OneDrive/Html5 y css3/3_cuerpo.html",
+		"/C/Users/elect/Documents/sublime/login boostrap/pingendo-page/pingendo-page/pantallaLogin.html",
+		"/C/Users/elect/Documents/sublime/login boostrap/pingendo-page/pantallaLogin.html",
+		"/C/Users/elect/Documents/sublime/login boostrap/validacion.js",
+		"/C/Users/elect/Documents/sublime/calculadora.html",
+		"/C/Users/elect/Documents/sublime/calculadora.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/elect/Documents/ProyectosNodeJS/curso-mean-social/client/src/app/components/timeline/timeline.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2772,
+								2772
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1318.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-mean-social.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
